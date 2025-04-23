@@ -5,7 +5,7 @@ I'm **Rabab Zahra**, a passionate **Software Engineer** with **3+ years of exper
 ### 🔭 What I'm currently working on:
 - Building innovative **React Native** applications with **NestJS** backend APIs.
 - Exploring **AI/ML** integration for smarter, more dynamic solutions.
-- Enhancing user experiences with **React** and **Next.js** for modern web applications.
+- Enhancing user experiences with **React** and **Nest.js** for modern web applications.
 
 ### 🌱 I’m currently learning:
 - Advanced **AI/ML** techniques to integrate into software solutions.

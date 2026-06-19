@@ -1,49 +1,47 @@
-## Hi there 👋
+## Hi there 👋 I'm Rabab Zahra
 
-I'm **Rabab Zahra**, a passionate **Software Engineer** with **3+ years of experience** in building scalable web and mobile applications. My journey has been driven by a love for clean code, scalable design, and a focus on high-quality solutions.
-
-### 🔭 What I'm currently working on:
-- Building innovative **React Native** applications with **NestJS** backend APIs.
-- Enhancing user experiences with **React** and **Nest.js** for modern web applications.
-- Exploring new technologies, including **NodeJs** and other frameworks to expand my skill set.
-
-### 🌱 I’m currently learning:
-- Exploring **NodeJs** and its features to broaden my frontend development expertise.
-- Advancing my knowledge in **AI/ML** techniques to integrate smarter, more dynamic solutions.
-- Optimizing backend performance with **Node.js** and **microservices architecture**.
-
-### 👯 I’m looking to collaborate on:
-- **Full-stack projects** involving **Ruby on Rails**, **React Native**, and **React JS**.
-- **AI/ML applications** and **data analysis** projects.
-- **Open-source contributions** and innovative solutions for growing startups.
-
-### 🤔 I’m looking for help with:
-- Optimizing performance and scalability of **React Native** applications.
-- Advanced techniques in **DevOps** to streamline the development pipeline.
-- Expanding my expertise in **Angular** and other frontend frameworks.
-
-### 💬 Ask me about:
-- **Ruby on Rails** development and migrations.
-- **React Native** and **React JS** best practices.
-- **API integrations** and creating clean, scalable code.
-
-### 📫 How to reach me:
-- Email: [r.rababzahra888@gmail.com](mailto:r.rababzahra888@gmail.com)
-- LinkedIn: [Rabab Zahra](https://www.linkedin.com/in/rabab-zahra-880090216/)
-
-### ⚡ Fun fact:
-- I'm a **graphic design enthusiast** and enjoy creating UI/UX designs to complement the development work!
+I am a **Full Stack Engineer** with **4+ years of professional experience** architecting, scaling, and delivering web and mobile applications. I specialize in building robust cross-platform mobile apps, designing scalable backend CRUD APIs, and implementing real-time data pipelines linking physical hardware to cloud AI microservices.
 
 ---
 
-### 📅 Professional Experience:
-- **Full Stack Engineer at Bytemage** (Present, Lahore, Pakistan): Developing **React Native** apps with **NestJS** backend API services, integrating hardware features like **Bluetooth connectivity**, and enabling **AI microservices** integration.
-- **Software Engineer at Devsinc** (Lahore, Pakistan): Delivered **five web and web services applications** with a **99% success rate**, upgraded **Rails** from version **4 to 6**, and collaborated with cross-functional teams for enhanced user experience.
-- **Graphic Design Intern at Hactric (Pvt.) Ltd** (Remote): Led social media campaigns and rebranding initiatives to enhance company visibility.
+### 🔭 What I'm Currently Working On
+- **IoT & Hardware Integration:** Structuring Bluetooth Low Energy (BLE) communication layers to bridge mobile app states with physical wearable firmware.
+- **Frontend & State Architecture:** Building high-performance UIs using **React Native**, **React**, **TanStack Query**, and **React Redux**.
+- **Backend & Microservices:** Engineering scalable REST APIs and data parsing engines with **NestJS** and **Ruby on Rails**.
 
-### 🎓 Education:
-- **Bachelor of Computer Sciences** from **FAST NUCES** (2018 – 2022).
+### 🌱 I’m Currently Advancing My Skills In
+- **Systems Performance:** Optimizing backend data pipelines and asynchronous worker patterns utilizing Redis and Sidekiq.
+- **Data & AI Pipelines:** Structuring telemetry collection pipelines to continuously feed and train cloud-based AI/ML filtering models.
+
+### 💬 Ask Me About
+- **Ruby on Rails** ecosystem updates, framework upgrades, and database optimizations.
+- **React Native & React** UI overhauls, custom hooks, and server-state management solutions.
+- **API Architecture** and third-party integrations (Stripe, Mixpanel, Klaviyo, OAuth).
 
 ---
 
-Feel free to reach out if you want to collaborate on a project or share ideas! 😊
+### 📊 Tech Stack & Tools
+
+- **Languages:** JavaScript, TypeScript, Ruby, Python, HTML5, CSS3
+- **Frameworks:** React Native, ReactJS, Ruby on Rails, NestJS, jQuery, Hotwire (Turbo/Stimulus)
+- **Databases & Caching:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite, Redis
+- **Testing & Tools:** RSpec, Postman, Git/GitHub, Jira, Sidekiq, Elasticsearch
+
+---
+
+### 📅 Proven Experience
+
+- **Full Stack Engineer at Bytemage** *(2024 – Present | Lahore, Pakistan)*
+  Executed a complete UI/UX overhaul of an IoT digital well-being platform, scaling a React Native application from 40% to 100% completion across 75 screens. Built NestJS backend APIs, implemented BLE data sync protocols, and integrated cloud AI microservices for smart notification parsing.
+  
+- **Software Engineer at Devsinc** *(Lahore, Pakistan)*
+  Delivered 5 high-availability web applications with a 99% production success rate. Managed complex multi-version framework migrations for legacy Ruby on Rails systems (v4 through v6) and optimized PostgreSQL/MySQL data layers.
+
+### 🎓 Education
+- **Bachelor of Computer Sciences** – FAST NUCES *(2018 – 2022)*
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/rabab-zahra-880090216](https://www.linkedin.com/in/rabab-zahra-880090216/)
+- **Email:** [r.rababzahra888@gmail.com](mailto:r.rababzahra888@gmail.com)

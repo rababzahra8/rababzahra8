@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>README Preview — rababzahra8</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #f6f8fa;
+      color: #1f2328;
+    }
+    .banner {
+      background: #050a15;
+      color: #58a6ff;
+      padding: 12px 20px;
+      text-align: center;
+      font-size: 14px;
+    }
+    .container {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 24px 16px 48px;
+      background: #ffffff;
+      min-height: 100vh;
+      box-shadow: 0 0 24px rgba(0,0,0,.08);
+    }
+    .markdown-body img { max-width: 100%; height: auto; }
+    .markdown-body table { border-collapse: collapse; width: 100%; }
+    .markdown-body td, .markdown-body th { border: 1px solid #d0d7de; padding: 8px 12px; }
+    .markdown-body blockquote {
+      border-left: 4px solid #d0d7de;
+      margin: 0;
+      padding: 0 16px;
+      color: #656d76;
+    }
+    .markdown-body h3 { margin-top: 24px; }
+    .markdown-body a { color: #0969da; }
+    .loading { text-align: center; padding: 48px; color: #656d76; }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <div class="banner">Local preview only — not pushed to GitHub · <strong>Cmd+R</strong> to refresh after edits</div>
+  <div class="container markdown-body" id="content">
+    <p class="loading">Loading README.md…</p>
+  </div>
+  <script>
+    marked.setOptions({ gfm: true, breaks: true });
+    fetch('README.md')
+      .then(r => r.text())
+      .then(md => { document.getElementById('content').innerHTML = marked.parse(md); })
+      .catch(() => {
+        document.getElementById('content').innerHTML =
+          '<p><strong>Could not load README.md.</strong> Run a local server from this folder:<br><code>python3 -m http.server 8765</code><br>Then open <a href="http://localhost:8765/preview.html">http://localhost:8765/preview.html</a></p>';
+      });
+  </script>
+</body>
+</html>

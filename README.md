@@ -374,11 +374,11 @@ Developed RESTful APIs for international clients, optimized SQL queries and back
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rababzahra8&theme=tokyonight" width="55%" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=ruby,js,ts,python,cpp,html,css&perline=7" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rababzahra8&theme=react&hide_border=false&bg_color=050a15&color=58a6ff&line=58a6ff&point=ffffff&area=true&height=300" width="95%" alt="Contribution graph" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,rails,nestjs,nodejs,postgres,mysql,mongodb,firebase,supabase,redis,aws,cloudflare,docker,git&perline=8" alt="Frameworks & tools" />
 </p>
 
 ---

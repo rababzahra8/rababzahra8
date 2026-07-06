@@ -365,25 +365,15 @@ Developed RESTful APIs for international clients, optimized SQL queries and back
 
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rababzahra8&theme=tokyonight" width="49%" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rababzahra8&theme=tokyonight" width="49%" alt="Top languages" />
-</p>
+<p align="center"><i>Public repos only — professional work from 2022–2024 was on private company accounts.</i></p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rababzahra8&theme=tokyonight" width="70%" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rababzahra8&theme=tokyonight&hide_border=false&background=0F172A&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7&border_radius=10" width="70%" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rababzahra8&theme=tokyonight" width="55%" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rababzahra8&theme=tokyo-night&hide_border=false&bg_color=0f172a&color=2E9EF7&line=2E9EF7&point=ffffff&area=true&height=300" width="95%" alt="Contribution graph" />
 </p>
-
-<!-- Snake appears after running Actions → Generate contribution snake -->
-<!-- <img src="https://raw.githubusercontent.com/rababzahra8/rababzahra8/output/github-contribution-grid-snake.svg" alt="Contribution snake" /> -->
 
 ---
 

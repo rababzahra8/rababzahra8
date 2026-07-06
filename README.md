@@ -361,6 +361,9 @@ Developed RESTful APIs for international clients, optimized SQL queries and back
 
 <p align="center"><i>Public repos only — professional work from 2022–2024 was on private company accounts.</i></p>
 
+<!--
+  3D contribution graph — uncomment after running Actions → GitHub-Profile-3D-Contrib
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rababzahra8/rababzahra8/output-3d-contrib/night.svg" />
@@ -368,17 +371,10 @@ Developed RESTful APIs for international clients, optimized SQL queries and back
     <img src="https://raw.githubusercontent.com/rababzahra8/rababzahra8/output-3d-contrib/night.svg" alt="3D contribution graph" width="100%" />
   </picture>
 </p>
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rababzahra8/rababzahra8/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,js,ts,python,cpp,html,css&perline=7" alt="Languages" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,rails,nestjs,nodejs,postgres,mysql,mongodb,firebase,supabase,redis,aws,cloudflare,docker,git&perline=8" alt="Frameworks & tools" />
 </p>
 
 ---

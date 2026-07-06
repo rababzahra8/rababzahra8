@@ -149,22 +149,26 @@ Currently deepening work in **AI-powered mobile experiences** and **edge-synced 
 <h3 align="center">🌸 01 · Living AI Garden <img src="https://img.shields.io/badge/Open_Source-22c55e?style=flat-square" /> <img src="https://img.shields.io/badge/Live_Demo-Try_Now-2E9EF7?style=flat-square" /></h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-27_Moods-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--LLM_Router-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 **Every conversation grows something new.** A reflective chat app where each talk with the Gardener plants a flower in your personal **3D meadow** — happy threads bloom into sunflowers, heavier conversations bring gentle rain, and deleted chats become memory stones while the feelings stay in the garden.
 
 | | Highlights |
 |:---|:---|
-| 🌿 | React Three Fiber scene — grass, seasons, night sky, snow-capped mountains |
-| 🧠 | LLM emotion mapping across **27 moods** → unique flowers, weather & sky |
-| 🎵 | Real ambience — birdsong by day, rain when weather shifts |
-| ☁️ | TanStack Start on **Cloudflare Workers** + **Supabase** auth & data |
+| 🌿 | **React Three Fiber + Three.js + GLSL** — living meadow, seasons, custom night-sky shaders, post-processing |
+| 🧠 | **Custom LLM router** (GPT-4o-mini · Groq · Gemini) — 27 moods, JSON emotion classification, safety guardrails |
+| 🎵 | **Web Audio API** — birdsong by day, rain when weather shifts |
+| ☁️ | **TanStack Start** SSR on Cloudflare Workers + **Supabase** (Auth, PostgreSQL, RLS) |
 
 <p align="center">
   <a href="https://living-ai-garden.r-rababzahra888.workers.dev/garden"><img src="https://img.shields.io/badge/🌿_Try_Live_Demo-No_Install_Needed-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -362,8 +366,12 @@ Developed RESTful APIs for international clients, optimized SQL queries and back
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=rababzahra8&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0f172a&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9&border_radius=10&cache_seconds=86400" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=rababzahra8&layout=compact&theme=tokyonight&hide_border=false&bg_color=0f172a&title_color=2E9EF7&text_color=c9d1d9&border_radius=10&cache_seconds=86400" width="48%" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rababzahra8&theme=tokyonight" width="49%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rababzahra8&theme=tokyonight" width="49%" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rababzahra8&theme=tokyonight" width="70%" alt="Profile details" />
 </p>
 
 <p align="center">
@@ -390,7 +398,13 @@ Developed RESTful APIs for international clients, optimized SQL queries and back
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0f172a&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=18&fontColor=ffffff" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0f172a&height=70&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=2E9EF7" width="100%" alt="Thanks for visiting" />
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting! ✨</strong>
+</p>
 
 <p align="center">
   <i>Crafted with care · <a href="https://github.com/rababzahra8">rababzahra8</a></i>

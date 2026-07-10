@@ -46,7 +46,7 @@ Currently deepening work in **AI-powered mobile experiences** and **edge-synced 
 | :-----: | :--------------: |
 | **4+**  |  Years building  |
 | **8+**  | Products shipped |
-| **15+** |   Technologies   |
+| **100+** |   Technologies   |
 
 </td>
 </tr>

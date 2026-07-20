@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/rababzahra8.png" width="130" style="border-radius:50%" alt="Rabab Zahra" />
-</p>
-
-<p align="center">
   <a href="https://www.rababzahra.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-rababzahra.com-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:r.rababzahra888@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/rabab-zahra-880090216/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

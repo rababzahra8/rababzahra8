@@ -10,6 +10,13 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
+    <img src="./light.svg" width="100%" alt="Rabab Zahra rendered in ASCII art" />
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://www.rababzahra.com/"><img src="https://img.shields.io/badge/🌐_Portfolio-rababzahra.com-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:r.rababzahra888@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/rabab-zahra-880090216/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -368,6 +375,8 @@ Developed RESTful APIs for international clients, optimized SQL queries and back
   </picture>
 </p>
 -->
+
+### Snake eating my contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rababzahra8/rababzahra8/output/github-contribution-grid-snake.svg" alt="Contribution snake" />

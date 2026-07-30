@@ -2,7 +2,7 @@
   "watered": 12,
   "rainUntil": 0,
   "snowUntil": 0,
-  "version": 2,
+  "version": 3,
   "plants": [
     {
       "id": "s1",
@@ -120,6 +120,16 @@
       "scale": 0.85,
       "plantedAt": 1785404099818,
       "planter": "rababzahra8",
+      "fresh": false
+    },
+    {
+      "id": "p3-ms7bm0jb",
+      "species": "lotus",
+      "x": 576.2,
+      "y": 347,
+      "scale": 1.0899999999999999,
+      "plantedAt": 1785404281655,
+      "planter": "ccityofstars-hash",
       "fresh": true
     }
   ]

@@ -30,6 +30,35 @@
 
 ---
 
+<a id="meadow-sync"></a>
+
+### 🌸 Meadow Sync
+
+<p align="center">
+  <em>A tiny relaxing meadow on my profile — glowing blooms, fireflies, and soft night light. Sibling of <a href="https://github.com/rababzahra8/living-ai-garden">Living AI Garden</a>.</em>
+</p>
+
+<p align="center">
+  <img src="./assets/meadow-sync.svg" width="100%" alt="Meadow Sync — premium animated SVG meadow with glowing flowers, fireflies, and glass HUD" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+ble&labels=garden&body=Planting%20a%20BLE%20Pulse%20in%20Meadow%20Sync.%0A%0A%28Just%20submit%20—%20no%20extra%20text%20needed.%29"><img src="https://img.shields.io/badge/📡_BLE_Pulse-58a6ff?style=for-the-badge" alt="Plant BLE Pulse" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+sunflower&labels=garden&body=Planting%20a%20Sunflower."><img src="https://img.shields.io/badge/🌻_Sunflower-F5C542?style=for-the-badge&labelColor=161b22" alt="Plant Sunflower" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+orchid&labels=garden&body=Planting%20an%20Orchid."><img src="https://img.shields.io/badge/🦋_Orchid-E879F9?style=for-the-badge&labelColor=161b22" alt="Plant Orchid" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+lotus&labels=garden&body=Planting%20a%20Lotus."><img src="https://img.shields.io/badge/🪷_Lotus-FB7185?style=for-the-badge&labelColor=161b22" alt="Plant Lotus" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+water&labels=garden&body=Watering%20the%20meadow."><img src="https://img.shields.io/badge/💧_Water-22c55e?style=for-the-badge" alt="Water the meadow" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+rain&labels=garden&body=Calling%20gentle%20night%20rain."><img src="https://img.shields.io/badge/🌧️_Rain-8b5cf6?style=for-the-badge" alt="Call rain" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-SVG_%2B_SMIL-22c55e?style=flat-square" alt="SVG SMIL" />
+  <img src="https://img.shields.io/badge/Engine-meadow--sync_Worker-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Worker" />
+  <img src="https://img.shields.io/badge/Input-Issues_or_Worker_plant_links-161b22?style=flat-square&logo=github" alt="Input" />
+</p>
+
+---
+
 ### 👋 About Me
 
 <table>

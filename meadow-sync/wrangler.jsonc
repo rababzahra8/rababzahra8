@@ -1,0 +1,19 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "meadow-sync",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-07-01",
+  // Local preview uses Miniflare KV automatically.
+  // For production: npx wrangler kv namespace create GARDEN — replace id below.
+  "kv_namespaces": [
+    {
+      "binding": "GARDEN",
+      "id": "00000000000000000000000000000001",
+      "preview_id": "00000000000000000000000000000001"
+    }
+  ],
+  "vars": {
+    "PROFILE_URL": "https://github.com/rababzahra8",
+    "GARDEN_TITLE": "Meadow Sync"
+  }
+}

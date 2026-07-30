@@ -1,0 +1,20 @@
+{
+  "watered": 12,
+  "rainUntil": 0,
+  "snowUntil": 0,
+  "version": 1,
+  "plants": [
+    { "id": "s1", "species": "sunflower", "x": 118, "y": 318, "scale": 1.05, "plantedAt": 1750000000000 },
+    { "id": "s2", "species": "rose", "x": 198, "y": 336, "scale": 0.92, "plantedAt": 1750001000000 },
+    { "id": "s3", "species": "tulip", "x": 268, "y": 322, "scale": 1, "plantedAt": 1750002000000 },
+    { "id": "s4", "species": "lavender", "x": 342, "y": 340, "scale": 0.95, "plantedAt": 1750003000000 },
+    { "id": "s5", "species": "ble", "x": 430, "y": 328, "scale": 1.08, "plantedAt": 1750004000000 },
+    { "id": "s6", "species": "daisy", "x": 512, "y": 338, "scale": 0.9, "plantedAt": 1750005000000 },
+    { "id": "s7", "species": "orchid", "x": 590, "y": 320, "scale": 1, "plantedAt": 1750006000000 },
+    { "id": "s8", "species": "lotus", "x": 668, "y": 334, "scale": 0.96, "plantedAt": 1750007000000 },
+    { "id": "s9", "species": "nightbloom", "x": 748, "y": 318, "scale": 1.02, "plantedAt": 1750008000000 },
+    { "id": "s10", "species": "tulip", "x": 820, "y": 342, "scale": 0.88, "plantedAt": 1750009000000 },
+    { "id": "s11", "species": "rose", "x": 160, "y": 368, "scale": 0.78, "plantedAt": 1750010000000 },
+    { "id": "s12", "species": "daisy", "x": 700, "y": 360, "scale": 0.8, "plantedAt": 1750011000000 }
+  ]
+}

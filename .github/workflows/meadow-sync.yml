@@ -1,0 +1,69 @@
+name: Meadow Sync
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  grow:
+    if: >
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'issues' &&
+       (contains(join(github.event.issue.labels.*.name, ','), 'garden') ||
+        startsWith(github.event.issue.title, 'garden:')))
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install meadow-sync deps
+        working-directory: meadow-sync
+        run: npm install
+
+      - name: Apply garden command
+        if: github.event_name == 'issues'
+        working-directory: meadow-sync
+        run: node scripts/apply-issue.mjs "${{ github.event.issue.title }}" "${{ github.event.issue.user.login }}"
+
+      - name: Regenerate meadow SVG
+        if: github.event_name == 'workflow_dispatch'
+        working-directory: meadow-sync
+        run: npm run generate
+
+      - name: Commit meadow assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/garden-state.json assets/meadow-sync.svg
+          if git diff --staged --quiet; then
+            echo "No meadow changes"
+            exit 0
+          fi
+          git commit -m "chore(meadow): grow garden from visitor action"
+          git push
+
+      - name: Close garden issue
+        if: github.event_name == 'issues'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: '🌱 Planted in **Meadow Sync** — refresh the [profile README](https://github.com/${{ github.repository_owner }}) to see your bloom.'
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });

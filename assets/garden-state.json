@@ -1,8 +1,8 @@
 {
   "watered": 12,
-  "rainUntil": 1785407077281,
+  "rainUntil": 0,
   "snowUntil": 0,
-  "version": 4,
+  "version": 5,
   "plants": [
     {
       "id": "s1",

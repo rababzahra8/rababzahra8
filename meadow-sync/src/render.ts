@@ -470,16 +470,23 @@ function weather(state: GardenState, phase: Phase): string {
     </g>`;
   }
 
-  return `<g id="rain" stroke="#b6dcff" stroke-width="1.4" opacity="0.45">
-    ${Array.from({ length: 28 }, (_, i) => {
-      const x = 30 + ((i * 61) % 900);
-      const dur = 1.1 + (i % 4) * 0.2;
-      return `<line x1="${x}" y1="0" x2="${x - 8}" y2="22">
-        <animate attributeName="y1" values="-20;420" dur="${dur}s" begin="${(i % 6) * 0.15}s" repeatCount="indefinite"/>
-        <animate attributeName="y2" values="10;450" dur="${dur}s" begin="${(i % 6) * 0.15}s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;0.55;0" dur="${dur}s" begin="${(i % 6) * 0.15}s" repeatCount="indefinite"/>
-      </line>`;
-    }).join("")}
+  // Bold, readable rain (GitHub SVG preview + Camo need high contrast)
+  return `
+  <g id="rain">
+    <rect width="${W}" height="${H}" fill="#0b1a33" opacity="0.22"/>
+    <g stroke="#c8e7ff" stroke-linecap="round">
+      ${Array.from({ length: 42 }, (_, i) => {
+        const x = 18 + ((i * 23) % 930);
+        const dur = 0.7 + (i % 5) * 0.12;
+        const begin = (i % 7) * 0.09;
+        const len = 18 + (i % 4) * 4;
+        return `<line x1="${x}" y1="0" x2="${x - 10}" y2="${len}" stroke-width="${1.8 + (i % 3) * 0.4}" opacity="0.85">
+          <animate attributeName="y1" values="-30;460" dur="${dur}s" begin="${begin}s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="${len - 30};${460 + len}" dur="${dur}s" begin="${begin}s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.1;0.85;1" dur="${dur}s" begin="${begin}s" repeatCount="indefinite"/>
+        </line>`;
+      }).join("")}
+    </g>
   </g>`;
 }
 

@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/meadow-sync.svg?v=4" width="100%" alt="Meadow Sync — premium animated SVG meadow with glowing flowers, fireflies, and glass HUD" />
+  <img src="./assets/meadow-sync.svg?v=5" width="100%" alt="Meadow Sync — premium animated SVG meadow with glowing flowers, fireflies, and glass HUD" />
 </p>
 
 <p align="center">
@@ -49,6 +49,7 @@
   <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+lotus&labels=garden&body=Planting%20a%20Lotus."><img src="https://img.shields.io/badge/🪷_Lotus-FB7185?style=for-the-badge&labelColor=161b22" alt="Plant Lotus" /></a>
   <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+water&labels=garden&body=Watering%20the%20meadow."><img src="https://img.shields.io/badge/💧_Water-22c55e?style=for-the-badge" alt="Water the meadow" /></a>
   <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+rain&labels=garden&body=Calling%20gentle%20night%20rain."><img src="https://img.shields.io/badge/🌧️_Rain-8b5cf6?style=for-the-badge" alt="Call rain" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+clear&labels=garden&body=Clearing%20the%20weather."><img src="https://img.shields.io/badge/✨_Clear-94a3b8?style=for-the-badge&labelColor=161b22" alt="Clear weather" /></a>
 </p>
 
 <p align="center">

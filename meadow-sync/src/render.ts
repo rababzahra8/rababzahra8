@@ -470,26 +470,23 @@ function weather(state: GardenState, phase: Phase): string {
     </g>`;
   }
 
-  // Soft natural rain — short fading streaks (same language as the shooting star)
+  // Classic falling rain streaks
   return `
   <g id="rain">
-    <rect width="${W}" height="${H}" fill="#071018" opacity="0.12"/>
-    ${Array.from({ length: 18 }, (_, i) => {
-      const x = 40 + ((i * 51) % 880);
-      const dur = 1.4 + (i % 5) * 0.25;
-      const begin = (i % 6) * 0.22;
-      const drift = 8 + (i % 4) * 2;
-      return `
-      <g opacity="0">
-        <animate attributeName="opacity" values="0;0.7;0.55;0" keyTimes="0;0.12;0.75;1" dur="${dur}s" begin="${begin}s" repeatCount="indefinite"/>
-        <animateTransform attributeName="transform" type="translate"
-          values="${x} -20;${x - drift} 200;${x - drift * 2} 420"
-          keyTimes="0;0.55;1" dur="${dur}s" begin="${begin}s" repeatCount="indefinite"/>
-        <line x1="-10" y1="-4" x2="0" y2="0" stroke="#e8f4ff" stroke-width="1.3" stroke-linecap="round" opacity="0.35"/>
-        <line x1="-5" y1="-2" x2="0" y2="0" stroke="#ffffff" stroke-width="1" stroke-linecap="round" opacity="0.8"/>
-        <circle r="1.1" fill="#ffffff" opacity="0.9"/>
-      </g>`;
-    }).join("")}
+    <rect width="${W}" height="${H}" fill="#0b1a33" opacity="0.22"/>
+    <g stroke="#c8e7ff" stroke-linecap="round">
+      ${Array.from({ length: 42 }, (_, i) => {
+        const x = 18 + ((i * 23) % 930);
+        const dur = 0.7 + (i % 5) * 0.12;
+        const begin = (i % 7) * 0.09;
+        const len = 18 + (i % 4) * 4;
+        return `<line x1="${x}" y1="0" x2="${x - 10}" y2="${len}" stroke-width="${1.8 + (i % 3) * 0.4}" opacity="0.85">
+          <animate attributeName="y1" values="-30;460" dur="${dur}s" begin="${begin}s" repeatCount="indefinite"/>
+          <animate attributeName="y2" values="${len - 30};${460 + len}" dur="${dur}s" begin="${begin}s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.1;0.85;1" dur="${dur}s" begin="${begin}s" repeatCount="indefinite"/>
+        </line>`;
+      }).join("")}
+    </g>
   </g>`;
 }
 

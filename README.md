@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/meadow-sync.svg?v=5" width="100%" alt="Meadow Sync — premium animated SVG meadow with glowing flowers, fireflies, and glass HUD" />
+  <img src="./assets/meadow-sync.svg?v=7" width="100%" alt="Meadow Sync — premium animated SVG meadow with glowing flowers, fireflies, and glass HUD" />
 </p>
 
 <p align="center">

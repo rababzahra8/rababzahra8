@@ -2,7 +2,7 @@
   "watered": 12,
   "rainUntil": 1785407673693,
   "snowUntil": 0,
-  "version": 6,
+  "version": 7,
   "plants": [
     {
       "id": "s1",
@@ -130,6 +130,16 @@
       "scale": 1.0899999999999999,
       "plantedAt": 1785404281655,
       "planter": "ccityofstars-hash",
+      "fresh": false
+    },
+    {
+      "id": "p7-ms8tp3hg",
+      "species": "orchid",
+      "x": 453.8,
+      "y": 348,
+      "scale": 0.94,
+      "plantedAt": 1785495124708,
+      "planter": "rababzahra8",
       "fresh": true
     }
   ]

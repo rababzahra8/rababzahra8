@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-Stack Software Engineer</b><br/>
-  Mobile, web, and the APIs between them · React Native · NestJS · Rails · Next.js
+  Ruby on Rails · React.js · React Native · Next.js · NestJS
 </p>
 
 <p align="center">
@@ -21,11 +21,9 @@
 
 ## About
 
-Full-stack engineer with **4+ years** building mobile apps, SaaS platforms, and IoT-connected products for clients in the **UAE, US, and UK**.
+Full-Stack Software Engineer with **4+ years** building scalable web and mobile applications using Ruby on Rails, React.js, React Native, Next.js, NestJS, and TypeScript.
 
-My work sits where systems meet: BLE firmware talking to a React Native app, a NestJS API serving both mobile and web, a Rails monolith being modernised without downtime. I own features end to end, from schema to shipped screen.
-
-**Currently focused on** React Native and BLE device integration, NestJS backend architecture, and AI-assisted product features.
+I work on RESTful APIs, AI-powered microservices, cloud integrations, and Bluetooth Low Energy solutions, with a strong background in modernizing legacy applications and optimizing performance for global clients. I build end-to-end products and collaborate with distributed Agile teams.
 
 ---
 
@@ -33,13 +31,14 @@ My work sits where systems meet: BLE firmware talking to a React Native app, a N
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Ruby, Python, C++ |
-| **Mobile** | React Native, BLE / Bluetooth Low Energy, Expo |
-| **Frontend** | React, Next.js, Redux, TanStack Query, Tailwind CSS |
-| **Backend** | NestJS, Ruby on Rails, Node.js, REST APIs |
-| **Data** | PostgreSQL, MySQL, MongoDB, Redis, Supabase, Firebase |
-| **Cloud & DevOps** | AWS, Cloudflare Workers, Vercel, Docker |
-| **Integrations** | Stripe & Stripe Connect, Twilio, Google APIs, Mixpanel |
+| **Languages** | Ruby, JavaScript, TypeScript, Python, C++ |
+| **Frontend** | React.js, React Native, Next.js, Redux, Context API, TanStack Query, Motion, Three.js, Tailwind CSS, Bootstrap |
+| **Backend** | Ruby on Rails, NestJS, Node.js, RESTful APIs |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Firebase, SQLite, Supabase, Redis |
+| **Cloud & DevOps** | AWS (S3, EC2, IAM), Docker, GitHub Actions, Cloudflare, Vercel, Heroku |
+| **AI & LLM APIs** | OpenAI GPT-4o-mini, Groq (Llama 3.1), Google Gemini |
+| **Integrations** | Stripe, Stripe Connect, PayPal, Twilio, SendGrid, Mailgun, Google APIs, OAuth 2.0, Google Maps, Zoom, Bluetooth Low Energy |
+| **Tools & Testing** | Git, RSpec, Sidekiq, Elasticsearch, Postman, Sentry, Bugsnag, Jira, Xcode, Android Studio |
 
 ---
 
@@ -53,12 +52,12 @@ My work sits where systems meet: BLE firmware talking to a React Native app, a N
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
-Reflective chat app where each conversation plants a flower in a 3D meadow. Custom LLM router across GPT-4o-mini, Groq, and Gemini with structured emotion classification, GLSL shaders, and TanStack Start SSR on Cloudflare Workers.
+AI-powered full-stack web application built with TypeScript, React 19, TanStack Start, Supabase, and Cloudflare Workers. Integrates OpenAI GPT-4o-mini, Groq, and Gemini with automatic fallback over PostgreSQL, plus an interactive 3D experience using React Three Fiber and Three.js.
 
 <a href="https://github.com/rababzahra8/living-ai-garden"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://living-ai-garden.r-rababzahra888.workers.dev/garden"><img src="https://img.shields.io/badge/Live_Demo-58a6ff?style=for-the-badge" /></a>
@@ -66,7 +65,7 @@ Reflective chat app where each conversation plants a flower in a 3D meadow. Cust
 </td>
 <td width="50%" valign="top">
 
-### Chroneering
+### Chroneering AI40
 
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -74,7 +73,7 @@ Reflective chat app where each conversation plants a flower in a 3D meadow. Cust
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
 
-Cross-platform companion app for the Nord A1 Priority Watch. Rebuilt the BLE communication layer for reliable reconnection across Android and iOS, with backend services filtering notifications before they reach the device.
+Cross-platform React Native app paired with the Nord A1 Priority Watch, powered by AI notification filtering. Rebuilt the BLE layer with robust reconnection, state recovery, and Android/iOS connectivity improvements, with AI microservices filtering and ranking notifications before they reach the watch.
 
 <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/Case_Study-58a6ff?style=for-the-badge" /></a>
 
@@ -88,51 +87,89 @@ Cross-platform companion app for the Nord A1 Priority Watch. Rebuilt the BLE com
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </p>
 
-Security workforce platform pairing a field app for guards with a web command center. QR patrol scanning, geofenced sites, live GPS tracking, and scheduling feed a single real-time operations view.
+Enterprise workforce security management platform. Redesigned the React.js web app and React Native mobile app, revamped the web UI, and delivered Analytics, Employee Management, and 8+ business modules. Built NestJS APIs with QR patrol tracking, camera integration, and geofencing.
 
 <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/Case_Study-58a6ff?style=for-the-badge" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### TapTab
+### Assemble
 
 <p>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe_Connect-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 </p>
 
-Digital menu and ordering platform. Diners browse and order on any device while restaurants manage menus, orders, and payouts, with Stripe Connect handling multi-party payments and a full delivery flow.
+Lead engineer on a two-sided marketplace connecting users with vetted experts for paid live 1:1 video sessions and async Q&A. Drove the Rails 5 to 7 modernization and built the booking engine, payments, and calendar integration across Stripe, Zoom, Google Calendar, and Twilio.
 
 <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/Case_Study-58a6ff?style=for-the-badge" /></a>
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Stellar Navigator
+
+<p>
+  <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
+
+My portfolio, built as a cinematic 3D experience rather than a document. A scroll-driven galaxy with an intro portal, six planetary worlds, GLSL shaders, GPU particles, and station detail pages. Designed and built solo on TanStack Start, React Three Fiber, GSAP, and Lenis.
+
+<a href="https://www.rababzahra.com/"><img src="https://img.shields.io/badge/Explore_the_galaxy-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### Digital Memory Jar
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+</p>
+
+Interactive web experience where written notes become glowing paper stars dropped into a physics-driven glass jar. Shake to stir, draw a random memory back out, all under a hand-painted Van Gogh inspired starry sky rendered on Canvas 2D.
+
+<a href="https://www.rababzahra.com/research-station"><img src="https://img.shields.io/badge/View_details-58a6ff?style=for-the-badge" /></a>
+
+</td>
+</tr>
 </table>
 
+**Also built:** TapTab (NestJS order management and Stripe Connect payouts) · Live Alert System (React.js and Rails real-time SMS platform with Rails Turbo) · Cross Architecture Program Alignment (Python binary analysis using Angr with a wxPython desktop UI)
+
 <p align="center">
-  <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/View_all_projects-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.rababzahra.com/research-station"><img src="https://img.shields.io/badge/Research_Station-Full_project_breakdowns-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
+
+<p align="center"><sub>Case studies with screenshots, stack notes, and my role on each build.</sub></p>
 
 ---
 
 ## Experience
 
-**Full Stack Engineer** · ByteMage · Lahore, Pakistan
+**Full Stack Engineer** · Bytemage · Lahore, Pakistan
 `July 2024 – Present`
 
-Rebuilt React and React Native platforms with scalable architecture. Developed NestJS backend services and engineered BLE integrations for smartwatch connectivity, building the pipelines that connect firmware, mobile apps, cloud infrastructure, and AI services.
+Modernized flagship web and mobile applications by rebuilding React.js and React Native platforms with scalable architecture. Developed backend services using NestJS, TypeScript, and RESTful APIs, and engineered Bluetooth Low Energy integrations enabling reliable smartwatch connectivity with real-time synchronization. Built communication pipelines between firmware, mobile applications, cloud infrastructure, and AI-powered microservices, and designed reusable backend modules that simplified future feature development.
 
 **Software Engineer** · Devsinc · Lahore, Pakistan
 `June 2022 – June 2024`
 
-Built RESTful APIs for international clients and optimised SQL queries and backend workflows. Migrated production Rails systems from v4 to v7, improving maintainability and long-term compatibility.
+Developed scalable web applications and backend services for international clients while collaborating with distributed teams. Designed and integrated RESTful APIs for secure communication between frontend and backend systems, and optimized SQL queries, application logic, and backend workflows for scalability and performance. Worked extensively with Ruby on Rails 4 applications and migrated production systems from Rails 5 to Rails 7, improving maintainability and compatibility.
 
-**BSc Computer Science** · FAST-NUCES, Lahore · 2018 – 2022
+**BSc Computer Science** · National University of Computer and Emerging Sciences (FAST-NUCES) · 2018 – 2022
 
 ---
 
@@ -146,9 +183,20 @@ Built RESTful APIs for international clients and optimised SQL queries and backe
 
 ---
 
-## Meadow Sync
+## Beyond Client Work
 
-<sub>A small side experiment living on this profile. Animated SVG rendered by a Cloudflare Worker, with GitHub Issues as the input layer. Sibling project to <a href="https://github.com/rababzahra8/living-ai-garden">Living AI Garden</a>.</sub>
+Two places where I build things because I want to see if they can exist.
+
+<p>
+  <a href="https://www.rababzahra.com/research-station"><img src="https://img.shields.io/badge/Research_Station-Client_%26_product_work-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://ask-rabab.netlify.app/"><img src="https://img.shields.io/badge/Ask_Rabab-Experiments_%26_playground-8b5cf6?style=for-the-badge" /></a>
+</p>
+
+<sub><b>Ask Rabab</b> is my personal site: a scroll-painted space for experiments, half-formed ideas, and things that started as "what if this existed?"</sub>
+
+### Meadow Sync
+
+<sub>A side experiment living on this profile. Animated SVG rendered by a Cloudflare Worker, with GitHub Issues as the input layer. Sibling project to <a href="https://github.com/rababzahra8/living-ai-garden">Living AI Garden</a>.</sub>
 
 <p align="center">
   <img src="./assets/meadow-sync.svg?v=7" width="100%" alt="Meadow Sync, an animated SVG meadow with flowers and fireflies" />

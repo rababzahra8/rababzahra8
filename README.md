@@ -1,19 +1,7 @@
-<!--
-  Your own banner (GIF / WebP / SVG): add assets/profile-banner.gif and uncomment:
-<p align="center"><img src="./assets/profile-banner.gif" width="100%" alt="Profile banner" /></p>
--->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050a15,50:161b22,100:0a0a0a&height=180&section=header&text=Rabab%20Zahra&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Engineer;Mobile+%7C+Web+%7C+APIs+%7C+IoT+%26+BLE;Ruby+on+Rails+%C2%B7+React+Native+%C2%B7+NestJS+%C2%B7+Next.js;Bridging+Firmware%2C+Cloud+%26+AI" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
-    <img src="./light.svg" width="100%" alt="Rabab Zahra rendered in ASCII art" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&width=620&lines=Full+Stack+Software+Engineer;Mobile+%7C+Web+%7C+APIs+%7C+IoT+%26+BLE;Ruby+on+Rails+%C2%B7+React+Native+%C2%B7+NestJS+%C2%B7+Next.js;Bridging+Firmware%2C+Cloud+%26+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,36 +18,6 @@
 
 ---
 
-<a id="meadow-sync"></a>
-
-### 🌸 Meadow Sync
-
-<p align="center">
-  <em>A tiny relaxing meadow on my profile — glowing blooms, fireflies, and soft night light. Sibling of <a href="https://github.com/rababzahra8/living-ai-garden">Living AI Garden</a>.</em>
-</p>
-
-<p align="center">
-  <img src="./assets/meadow-sync.svg?v=7" width="100%" alt="Meadow Sync — premium animated SVG meadow with glowing flowers, fireflies, and glass HUD" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+ble&labels=garden&body=Planting%20a%20BLE%20Pulse%20in%20Meadow%20Sync.%0A%0A%28Just%20submit%20—%20no%20extra%20text%20needed.%29"><img src="https://img.shields.io/badge/📡_BLE_Pulse-58a6ff?style=for-the-badge" alt="Plant BLE Pulse" /></a>
-  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+sunflower&labels=garden&body=Planting%20a%20Sunflower."><img src="https://img.shields.io/badge/🌻_Sunflower-F5C542?style=for-the-badge&labelColor=161b22" alt="Plant Sunflower" /></a>
-  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+orchid&labels=garden&body=Planting%20an%20Orchid."><img src="https://img.shields.io/badge/🦋_Orchid-E879F9?style=for-the-badge&labelColor=161b22" alt="Plant Orchid" /></a>
-  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+lotus&labels=garden&body=Planting%20a%20Lotus."><img src="https://img.shields.io/badge/🪷_Lotus-FB7185?style=for-the-badge&labelColor=161b22" alt="Plant Lotus" /></a>
-  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+water&labels=garden&body=Watering%20the%20meadow."><img src="https://img.shields.io/badge/💧_Water-22c55e?style=for-the-badge" alt="Water the meadow" /></a>
-  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+rain&labels=garden&body=Calling%20gentle%20night%20rain."><img src="https://img.shields.io/badge/🌧️_Rain-8b5cf6?style=for-the-badge" alt="Call rain" /></a>
-  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+clear&labels=garden&body=Clearing%20the%20weather."><img src="https://img.shields.io/badge/✨_Clear-94a3b8?style=for-the-badge&labelColor=161b22" alt="Clear weather" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Render-SVG_%2B_SMIL-22c55e?style=flat-square" alt="SVG SMIL" />
-  <img src="https://img.shields.io/badge/Engine-meadow--sync_Worker-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Worker" />
-  <img src="https://img.shields.io/badge/Input-Issues_or_Worker_plant_links-161b22?style=flat-square&logo=github" alt="Input" />
-</p>
-
----
-
 ### 👋 About Me
 
 <table>
@@ -68,18 +26,39 @@
 
 Full-stack engineer with **4+ years** shipping mobile apps, SaaS platforms, and IoT-connected products for international clients across the **UAE, US, and UK**.
 
-I build **mobile apps, web platforms, and the APIs that connect them** — from BLE smartwatch firmware sync to Stripe-powered marketplaces and AI microservices.
+I build **mobile apps, web platforms, and the APIs that connect them**: BLE smartwatch firmware sync, Stripe-powered marketplaces, AI microservices.
 
 Currently deepening work in **AI-powered mobile experiences** and **edge-synced BLE devices**.
 
 </td>
 <td width="40%" valign="top" align="center">
 
-|         |                  |
-| :-----: | :--------------: |
-| **4+**  |  Years building  |
-| **8+**  | Products shipped |
-| **100+** |   Technologies   |
+|         |                   |
+| :-----: | :---------------: |
+| **4+**  |  Years building   |
+| **10+** | Products shipped  |
+| **3**   | Client timezones  |
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧩 Selected Engineering Problems
+
+<table>
+<tr>
+<td valign="top">
+
+**BLE reconnection across Android OEMs**
+Background reconnect failed silently after roughly 30 seconds, with behaviour varying by manufacturer. Rebuilt the connection state machine with explicit GATT teardown and exponential backoff, moving reconnect from intermittent to consistent across the full test device matrix.
+
+**Rails 4 to 7 on a live production system**
+Migrated a running client platform across three major versions without a maintenance window. Sequenced dependency upgrades, replaced deprecated APIs incrementally, and kept the old and new paths co-existing behind feature checks until cutover.
+
+**LLM emotion classification with a cost ceiling**
+Living AI Garden routes between GPT-4o-mini, Groq, and Gemini depending on request shape. Classification returns structured JSON across 27 moods with schema validation and a fallback path, so a malformed model response degrades to a default state instead of breaking the render.
 
 </td>
 </tr>
@@ -92,19 +71,9 @@ Currently deepening work in **AI-powered mobile experiences** and **edge-synced 
 |     | Focus                    | Details                                                                                     |
 | :-: | :----------------------- | :------------------------------------------------------------------------------------------ |
 | 📡  | **IoT & BLE**            | Rebuilding BLE communication layers for reliable smartwatch connectivity and real-time sync |
-| 🌸  | **Living AI Garden**     | Open-source 3D reflective chat app — LLM moods bloom into flowers on Cloudflare Workers     |
+| 🌸  | **Living AI Garden**     | Open-source 3D reflective chat app, LLM moods bloom into flowers on Cloudflare Workers      |
 | 🤖  | **AI Mobile Apps**       | Cross-platform React Native apps with AI microservices for smart notification filtering     |
 | ⚙️  | **Backend Architecture** | Scalable NestJS / RESTful APIs connecting firmware, mobile, cloud & AI                      |
-
----
-
-### 💬 Ask Me About
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Rails_4_→_7-Legacy_Modernization-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native_+_BLE-Wearable_Devices-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Stripe_·_Twilio_·_Google_APIs-Integrations-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
 
 ---
 
@@ -136,7 +105,7 @@ Currently deepening work in **AI-powered mobile experiences** and **edge-synced 
 <tr>
 <td align="center" width="33%"><b>Databases</b></td>
 <td align="center" width="33%"><b>Cloud & DevOps</b></td>
-<td align="center" width="33%"><b>Tools</b></td>
+<td align="center" width="33%"><b>Integrations</b></td>
 </tr>
 <tr>
 <td align="center">
@@ -151,21 +120,13 @@ Currently deepening work in **AI-powered mobile experiences** and **edge-synced 
 </td>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" alt="Tools" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/BLE-58a6ff?style=flat-square&logo=bluetooth&logoColor=white" />
 
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Stripe-Payments-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Twilio-SMS_&_Voice-F22F46?style=flat-square&logo=twilio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mixpanel-Analytics-7856FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Klaviyo-Email_Marketing-12B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/TanStack_Query-Server_State-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/BLE-IoT_Connectivity-58a6ff?style=flat-square&logo=bluetooth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-Agile-0052CC?style=flat-square&logo=jira&logoColor=white" />
-</p>
 
 ---
 
@@ -175,33 +136,31 @@ Currently deepening work in **AI-powered mobile experiences** and **edge-synced 
 <tr>
 <td colspan="2" valign="top">
 
-<h3 align="center">🌸 01 · Living AI Garden <img src="https://img.shields.io/badge/Open_Source-22c55e?style=flat-square" /> <img src="https://img.shields.io/badge/Live_Demo-Try_Now-58a6ff?style=flat-square" /></h3>
+<h3 align="center">🌸 01 · Living AI Garden <img src="https://img.shields.io/badge/Open_Source-22c55e?style=flat-square" /></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Multi--LLM_Router-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-**Every conversation grows something new.** A reflective chat app where each talk with the Gardener plants a flower in your personal **3D meadow** — happy threads bloom into sunflowers, heavier conversations bring gentle rain, and deleted chats become memory stones while the feelings stay in the garden.
+**Every conversation grows something new.** A reflective chat app where each talk with the Gardener plants a flower in your personal **3D meadow**. Happy threads bloom into sunflowers, heavier conversations bring gentle rain, and deleted chats become memory stones while the feelings stay in the garden.
 
-|     | Highlights                                                                                                     |
-| :-- | :------------------------------------------------------------------------------------------------------------- |
-| 🌿  | **React Three Fiber + Three.js + GLSL** — living meadow, seasons, custom night-sky shaders, post-processing    |
-| 🧠  | **Custom LLM router** (GPT-4o-mini · Groq · Gemini) — 27 moods, JSON emotion classification, safety guardrails |
-| 🎵  | **Web Audio API** — birdsong by day, rain when weather shifts                                                  |
-| ☁️  | **TanStack Start** SSR on Cloudflare Workers + **Supabase** (Auth, PostgreSQL, RLS)                            |
+|     | Highlights                                                                                                    |
+| :-- | :------------------------------------------------------------------------------------------------------------ |
+| 🌿  | **React Three Fiber + Three.js + GLSL**, living meadow, seasons, custom night-sky shaders, post-processing    |
+| 🧠  | **Custom LLM router** (GPT-4o-mini · Groq · Gemini), 27 moods, JSON emotion classification, safety guardrails |
+| 🎵  | **Web Audio API**, birdsong by day, rain when weather shifts                                                  |
+| ☁️  | **TanStack Start** SSR on Cloudflare Workers + **Supabase** (Auth, PostgreSQL, RLS)                           |
 
 <p align="center">
-  <a href="https://living-ai-garden.r-rababzahra888.workers.dev/garden"><img src="https://img.shields.io/badge/🌿_Try_Live_Demo-No_Install_Needed-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/rababzahra8/living-ai-garden"><img src="https://img.shields.io/badge/⭐_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/rababzahra8/living-ai-garden"><img src="https://img.shields.io/badge/⭐_View_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://living-ai-garden.r-rababzahra888.workers.dev/garden"><img src="https://img.shields.io/badge/🌿_Live_Demo-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 </td>
@@ -220,24 +179,23 @@ Currently deepening work in **AI-powered mobile experiences** and **edge-synced 
 Cross-platform React Native app paired with the **Nord A1 Priority Watch**. Rebuilt the BLE layer for robust reconnection and Android/iOS connectivity, with AI microservices filtering notifications in real time.
 
 <p align="center">
-  <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/View_on_Portfolio-58a6ff?style=for-the-badge" /></a>
+  <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/Case_Study-58a6ff?style=for-the-badge" /></a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🛡️ 03 · TimeTrail</h3>
+<h3 align="center">🔍 03 · CAPA</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angr-Binary_Analysis-161b22?style=flat-square" />
+  <img src="https://img.shields.io/badge/wxPython-58a6ff?style=flat-square" />
 </p>
 
-Enterprise security workforce platform with mobile check calls, **QR patrols, geofencing, live GPS tracking**, and a web command center for scheduling, analytics, and real-time operations.
+Malware analysis platform for software theft detection. Binary disassembly and semantic comparison using **Angr**, with a wxPython desktop UI for interactive analysis.
 
 <p align="center">
-  <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/View_on_Portfolio-58a6ff?style=for-the-badge" /></a>
+  <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/Case_Study-58a6ff?style=for-the-badge" /></a>
 </p>
 
 </td>
@@ -245,18 +203,17 @@ Enterprise security workforce platform with mobile check calls, **QR patrols, ge
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎓 04 · Assemble (BeGreat)</h3>
+<h3 align="center">🛡️ 04 · TimeTrail</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Rails_7-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 </p>
 
-Two-sided expert marketplace for paid live **1:1 video sessions** and async Q&A. Upgraded Rails versions and integrated Mixpanel & Klaviyo for analytics and marketing automation.
+Enterprise security workforce platform with mobile check calls, **QR patrols, geofencing, live GPS tracking**, and a web command center for scheduling, analytics, and real-time operations.
 
 <p align="center">
-  <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/View_on_Portfolio-58a6ff?style=for-the-badge" /></a>
+  <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/Case_Study-58a6ff?style=for-the-badge" /></a>
 </p>
 
 </td>
@@ -267,48 +224,50 @@ Two-sided expert marketplace for paid live **1:1 video sessions** and async Q&A.
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe_Connect-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-Digital menu platform where diners browse on mobile or desktop and restaurants manage menus, orders, and payouts — with **Stripe Connect** and a full order delivery flow.
+Digital menu platform where diners browse on mobile or desktop and restaurants manage menus, orders, and payouts, with **Stripe Connect** and a full order delivery flow.
 
 <p align="center">
-  <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/View_on_Portfolio-58a6ff?style=for-the-badge" /></a>
+  <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/Case_Study-58a6ff?style=for-the-badge" /></a>
 </p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🚨 06 · Live Alert System</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rails_Turbo-D30001?style=flat-square" />
-</p>
-
-Real-time notification platform with secure **SMS alert delivery**, optimized MySQL structures, and Rails Turbo for faster navigation.
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🔍 07 · CAPA</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angr-Security-161b22?style=flat-square" />
-  <img src="https://img.shields.io/badge/wxPython-58a6ff?style=flat-square" />
-</p>
-
-Malware analysis platform for software theft detection. Binary disassembly and semantic comparison using **Angr**, with a wxPython desktop UI for interactive analysis.
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/🚀_View_All_Projects_on_Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.rababzahra.com/#projects"><img src="https://img.shields.io/badge/🚀_View_All_Projects-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+---
+
+<a id="meadow-sync"></a>
+
+### 🌸 Meadow Sync
+
+<p align="center">
+  <em>A tiny relaxing meadow on my profile: glowing blooms, fireflies, and soft night light. Custom SVG rendered by a Cloudflare Worker, planted from GitHub Issues. Sibling of <a href="https://github.com/rababzahra8/living-ai-garden">Living AI Garden</a>.</em>
+</p>
+
+<p align="center">
+  <img src="./assets/meadow-sync.svg?v=7" width="100%" alt="Meadow Sync, animated SVG meadow with glowing flowers, fireflies, and glass HUD" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+ble&labels=garden&body=Planting%20a%20BLE%20Pulse%20in%20Meadow%20Sync.%0A%0A%28Just%20submit%20—%20no%20extra%20text%20needed.%29"><img src="https://img.shields.io/badge/📡_BLE_Pulse-58a6ff?style=for-the-badge" alt="Plant BLE Pulse" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+sunflower&labels=garden&body=Planting%20a%20Sunflower."><img src="https://img.shields.io/badge/🌻_Sunflower-F5C542?style=for-the-badge&labelColor=161b22" alt="Plant Sunflower" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+orchid&labels=garden&body=Planting%20an%20Orchid."><img src="https://img.shields.io/badge/🦋_Orchid-E879F9?style=for-the-badge&labelColor=161b22" alt="Plant Orchid" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+plant+lotus&labels=garden&body=Planting%20a%20Lotus."><img src="https://img.shields.io/badge/🪷_Lotus-FB7185?style=for-the-badge&labelColor=161b22" alt="Plant Lotus" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+water&labels=garden&body=Watering%20the%20meadow."><img src="https://img.shields.io/badge/💧_Water-22c55e?style=for-the-badge" alt="Water the meadow" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+rain&labels=garden&body=Calling%20gentle%20night%20rain."><img src="https://img.shields.io/badge/🌧️_Rain-8b5cf6?style=for-the-badge" alt="Call rain" /></a>
+  <a href="https://github.com/rababzahra8/rababzahra8/issues/new?title=garden%3A+clear&labels=garden&body=Clearing%20the%20weather."><img src="https://img.shields.io/badge/✨_Clear-94a3b8?style=for-the-badge&labelColor=161b22" alt="Clear weather" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-SVG_%2B_SMIL-22c55e?style=flat-square" alt="SVG SMIL" />
+  <img src="https://img.shields.io/badge/Engine-meadow--sync_Worker-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Worker" />
+  <img src="https://img.shields.io/badge/Input-GitHub_Issues-161b22?style=flat-square&logo=github" alt="Input" />
 </p>
 
 ---
@@ -350,10 +309,6 @@ Developed RESTful APIs for international clients, optimized SQL queries and back
 </tr>
 </table>
 
----
-
-### 🎓 Education
-
 <p align="center">
   <img src="https://img.shields.io/badge/BSc_Computer_Science-FAST--NUCES-58a6ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/2018_–_2022-Lahore,_Pakistan-161b22?style=for-the-badge" />
@@ -363,53 +318,21 @@ Developed RESTful APIs for international clients, optimized SQL queries and back
 
 ### 💬 What Clients Say
 
-<table>
-<tr>
-<td>
-
 > _"ByteMage stepped in seamlessly and stabilized the platform. They do what they say they'll do, with clear timelines, honest communication, and reliable delivery. They go beyond scope by solving problems and making the whole project stronger."_
 >
 > **— Robin Schultz**, CEO & Founder at Nord AI · Chroneering
 
-</td>
-</tr>
-</table>
-
----
-
-### ✍️ Latest Writing
-
-| Post                                                                                   | Date     |
-| :------------------------------------------------------------------------------------- | :------- |
-| [How I optimized my Next.js portfolio for Lighthouse](https://www.rababzahra.com/blog) | Jun 2026 |
-| [How I synced BLE firmware with React Native](https://www.rababzahra.com/blog)         | Jun 2026 |
-
-<p align="center">
-  <a href="https://www.rababzahra.com/blog"><img src="https://img.shields.io/badge/Read_All_Posts-58a6ff?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-</p>
+<p align="center"><sub>Chroneering: I owned the BLE communication layer and the React Native app.</sub></p>
 
 ---
 
 ### 📊 GitHub Activity
 
-<p align="center"><i>Public repos only — professional work from 2022–2024 was on private company accounts.</i></p>
-
-<!--
-  3D contribution graph — uncomment after running Actions → GitHub-Profile-3D-Contrib
+<p align="center"><i>Public repos only. Professional work from 2022 to 2024 was on private company accounts.</i></p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rababzahra8/rababzahra8/output-3d-contrib/night.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rababzahra8/rababzahra8/output-3d-contrib/day.svg" />
-    <img src="https://raw.githubusercontent.com/rababzahra8/rababzahra8/output-3d-contrib/night.svg" alt="3D contribution graph" width="100%" />
-  </picture>
-</p>
--->
-
-### Snake eating my contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rababzahra8/rababzahra8/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rababzahra8&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rababzahra8&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Top languages" />
 </p>
 
 ---
@@ -420,7 +343,6 @@ Developed RESTful APIs for international clients, optimized SQL queries and back
   <a href="https://www.rababzahra.com/"><img src="https://img.shields.io/badge/Portfolio-rababzahra.com-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rabab-zahra-880090216/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:r.rababzahra888@gmail.com"><img src="https://img.shields.io/badge/Email-r.rababzahra888@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/rababzahra8"><img src="https://img.shields.io/badge/GitHub-rababzahra8-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <br/>
